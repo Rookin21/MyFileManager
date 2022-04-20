@@ -8,7 +8,7 @@ using DrawWindow;
 
 namespace FileManager
 {
-    internal class Program
+    class Program
     {
         // Константы для определения размеров консоли
         const int WINDOW_HEIGHT = 30;
